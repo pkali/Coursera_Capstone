@@ -1,0 +1,962 @@
+"zip","city","county","state","pop"
+"33012","Hialeah","Miami-Dade","FL",75666
+"33024","Hollywood","Broward","FL",75306
+"33023","Hollywood","Broward","FL",73671
+"33311","Fort Lauderdale","Broward","FL",73034
+"33025","Hollywood","Broward","FL",71763
+"33411","West Palm Beach","Palm Beach","FL",71587
+"33186","Miami","Miami-Dade","FL",70614
+"34953","Port Saint Lucie","Saint Lucie","FL",69685
+"33157","Miami","Miami-Dade","FL",68402
+"33647","Tampa","Hillsborough","FL",67730
+"33015","Hialeah","Miami-Dade","FL",66272
+"32828","Orlando","Orange","FL",65665
+"32765","Oviedo","Seminole","FL",65151
+"34787","Winter Garden","Orange","FL",64723
+"33313","Fort Lauderdale","Broward","FL",62405
+"33463","Lake Worth","Palm Beach","FL",62043
+"32218","Jacksonville","Duval","FL",61846
+"32825","Orlando","Orange","FL",61550
+"32210","Jacksonville","Duval","FL",61496
+"33125","Miami","Miami-Dade","FL",61492
+"33064","Pompano Beach","Broward","FL",61397
+"33414","West Palm Beach","Palm Beach","FL",61301
+"32822","Orlando","Orange","FL",60781
+"32244","Jacksonville","Duval","FL",60712
+"34711","Clermont","Lake","FL",60564
+"33027","Hollywood","Broward","FL",60191
+"33142","Miami","Miami-Dade","FL",58574
+"33033","Homestead","Miami-Dade","FL",58224
+"33177","Miami","Miami-Dade","FL",58129
+"33511","Brandon","Hillsborough","FL",57642
+"32808","Orlando","Orange","FL",57443
+"33065","Pompano Beach","Broward","FL",57399
+"32068","Middleburg","Clay","FL",57226
+"33458","Jupiter","Palm Beach","FL",56642
+"33165","Miami","Miami-Dade","FL",56133
+"33161","Miami","Miami-Dade","FL",55663
+"32818","Orlando","Orange","FL",55586
+"33175","Miami","Miami-Dade","FL",55334
+"34744","Kissimmee","Osceola","FL",55210
+"32771","Sanford","Seminole","FL",54980
+"33063","Pompano Beach","Broward","FL",54937
+"32162","Lady Lake","Sumter","FL",54530
+"32225","Jacksonville","Duval","FL",54496
+"32837","Orlando","Orange","FL",54051
+"33312","Fort Lauderdale","Broward","FL",53552
+"33467","Lake Worth","Palm Beach","FL",53339
+"33126","Miami","Miami-Dade","FL",52987
+"33018","Hialeah","Miami-Dade","FL",52526
+"33176","Miami","Miami-Dade","FL",52461
+"32839","Orlando","Orange","FL",52371
+"33196","Miami","Miami-Dade","FL",51752
+"33068","Pompano Beach","Broward","FL",51617
+"33415","West Palm Beach","Palm Beach","FL",51582
+"33178","Miami","Miami-Dade","FL",51459
+"33193","Miami","Miami-Dade","FL",51378
+"32246","Jacksonville","Duval","FL",51275
+"33016","Hialeah","Miami-Dade","FL",51003
+"32703","Apopka","Orange","FL",50992
+"32792","Winter Park","Orange","FL",50991
+"32174","Ormond Beach","Volusia","FL",50869
+"32303","Tallahassee","Leon","FL",50436
+"33810","Lakeland","Polk","FL",50302
+"32259","Jacksonville","Saint Johns","FL",49969
+"33021","Hollywood","Broward","FL",49350
+"33612","Tampa","Hillsborough","FL",49312
+"32608","Gainesville","Alachua","FL",48905
+"33324","Fort Lauderdale","Broward","FL",48807
+"33162","Miami","Miami-Dade","FL",48185
+"33614","Tampa","Hillsborough","FL",48029
+"32725","Deltona","Volusia","FL",48008
+"33321","Fort Lauderdale","Broward","FL",47974
+"33029","Hollywood","Broward","FL",47895
+"33147","Miami","Miami-Dade","FL",47834
+"32304","Tallahassee","Leon","FL",47787
+"33155","Miami","Miami-Dade","FL",47450
+"34668","Port Richey","Pasco","FL",47309
+"33010","Hialeah","Miami-Dade","FL",47231
+"33032","Homestead","Miami-Dade","FL",47067
+"33319","Fort Lauderdale","Broward","FL",47021
+"32712","Apopka","Orange","FL",46662
+"32824","Orlando","Orange","FL",46545
+"33461","Lake Worth","Palm Beach","FL",46344
+"34135","Bonita Springs","Lee","FL",46064
+"32835","Orlando","Orange","FL",46058
+"33610","Tampa","Hillsborough","FL",45963
+"34741","Kissimmee","Osceola","FL",45920
+"32738","Deltona","Volusia","FL",45881
+"33615","Tampa","Hillsborough","FL",45851
+"32256","Jacksonville","Duval","FL",45688
+"33617","Tampa","Hillsborough","FL",45652
+"34761","Ocoee","Orange","FL",45639
+"33179","Miami","Miami-Dade","FL",45243
+"32164","Palm Coast","Flagler","FL",45207
+"32708","Winter Springs","Seminole","FL",44826
+"32514","Pensacola","Escambia","FL",44759
+"33020","Hollywood","Broward","FL",44578
+"34743","Kissimmee","Osceola","FL",44335
+"34221","Palmetto","Manatee","FL",44294
+"33436","Boynton Beach","Palm Beach","FL",44249
+"32907","Palm Bay","Brevard","FL",44097
+"34997","Stuart","Martin","FL",44018
+"32137","Palm Coast","Flagler","FL",43813
+"32224","Jacksonville","Duval","FL",43751
+"34786","Windermere","Orange","FL",43458
+"33055","Opa Locka","Miami-Dade","FL",43405
+"34746","Kissimmee","Osceola","FL",43249
+"32746","Lake Mary","Seminole","FL",43232
+"33172","Miami","Miami-Dade","FL",43083
+"34983","Port Saint Lucie","Saint Lucie","FL",42737
+"32073","Orange Park","Clay","FL",41863
+"33134","Miami","Miami-Dade","FL",41861
+"32935","Melbourne","Brevard","FL",41550
+"33169","Miami","Miami-Dade","FL",41525
+"33880","Winter Haven","Polk","FL",41346
+"33014","Hialeah","Miami-Dade","FL",41316
+"33009","Hallandale","Broward","FL",41276
+"34609","Spring Hill","Hernando","FL",41250
+"32811","Orlando","Orange","FL",41246
+"33428","Boca Raton","Palm Beach","FL",41189
+"33160","North Miami Beach","Miami-Dade","FL",41113
+"34758","Kissimmee","Osceola","FL",41094
+"33309","Fort Lauderdale","Broward","FL",40926
+"33418","West Palm Beach","Palm Beach","FL",40225
+"34952","Port Saint Lucie","Saint Lucie","FL",40063
+"32404","Panama City","Bay","FL",40029
+"33141","Miami Beach","Miami-Dade","FL",40005
+"33433","Boca Raton","Palm Beach","FL",39954
+"34759","Kissimmee","Polk","FL",39850
+"33071","Pompano Beach","Broward","FL",39839
+"33135","Miami","Miami-Dade","FL",39789
+"33619","Tampa","Hillsborough","FL",39747
+"34208","Bradenton","Manatee","FL",39538
+"32940","Melbourne","Brevard","FL",39396
+"34655","New Port Richey","Pasco","FL",39385
+"32810","Orlando","Orange","FL",39384
+"34748","Leesburg","Lake","FL",39230
+"32955","Rockledge","Brevard","FL",39127
+"33322","Fort Lauderdale","Broward","FL",39049
+"33437","Boynton Beach","Palm Beach","FL",38921
+"34698","Dunedin","Pinellas","FL",38909
+"33604","Tampa","Hillsborough","FL",38690
+"32257","Jacksonville","Duval","FL",38651
+"33624","Tampa","Hillsborough","FL",38618
+"33139","Miami Beach","Miami-Dade","FL",38606
+"33317","Fort Lauderdale","Broward","FL",38360
+"32566","Navarre","Santa Rosa","FL",38112
+"32216","Jacksonville","Duval","FL",38073
+"34293","Venice","Sarasota","FL",37969
+"34203","Bradenton","Manatee","FL",37632
+"33183","Miami","Miami-Dade","FL",37504
+"33914","Cape Coral","Lee","FL",37375
+"32714","Altamonte Springs","Seminole","FL",37223
+"33813","Lakeland","Polk","FL",37211
+"33060","Pompano Beach","Broward","FL",37168
+"32065","Orange Park","Clay","FL",37160
+"33905","Fort Myers","Lee","FL",37081
+"32506","Pensacola","Escambia","FL",36923
+"34207","Bradenton","Manatee","FL",36738
+"33076","Pompano Beach","Broward","FL",36600
+"34116","Naples","Collier","FL",36531
+"32826","Orlando","Orange","FL",36464
+"33435","Boynton Beach","Palm Beach","FL",36423
+"33056","Opa Locka","Miami-Dade","FL",36409
+"32526","Pensacola","Escambia","FL",36300
+"33908","Fort Myers","Lee","FL",36071
+"32724","Deland","Volusia","FL",36047
+"32207","Jacksonville","Duval","FL",35917
+"33030","Homestead","Miami-Dade","FL",35701
+"33410","West Palm Beach","Palm Beach","FL",35597
+"33351","Fort Lauderdale","Broward","FL",35581
+"33594","Valrico","Hillsborough","FL",35465
+"32209","Jacksonville","Duval","FL",35436
+"32780","Titusville","Brevard","FL",35399
+"32571","Milton","Santa Rosa","FL",35388
+"32707","Casselberry","Seminole","FL",35369
+"32817","Orlando","Orange","FL",35317
+"33801","Lakeland","Polk","FL",35305
+"33844","Haines City","Polk","FL",35280
+"32812","Orlando","Orange","FL",35101
+"34653","New Port Richey","Pasco","FL",35015
+"33613","Tampa","Hillsborough","FL",34941
+"34785","Wildwood","Sumter","FL",34933
+"32034","Fernandina Beach","Nassau","FL",34928
+"32084","Saint Augustine","Saint Johns","FL",34892
+"34209","Bradenton","Manatee","FL",34794
+"33040","Key West","Monroe","FL",34784
+"33073","Pompano Beach","Broward","FL",34652
+"32092","Saint Augustine","Saint Johns","FL",34642
+"34232","Sarasota","Sarasota","FL",34639
+"32211","Jacksonville","Duval","FL",34607
+"32503","Pensacola","Escambia","FL",34520
+"34608","Spring Hill","Hernando","FL",34476
+"33133","Miami","Miami-Dade","FL",34460
+"32807","Orlando","Orange","FL",34306
+"33156","Miami","Miami-Dade","FL",34167
+"33174","Miami","Miami-Dade","FL",34015
+"34667","Hudson","Pasco","FL",33960
+"33710","Saint Petersburg","Pinellas","FL",33883
+"33409","West Palm Beach","Palm Beach","FL",33875
+"33952","Port Charlotte","Charlotte","FL",33662
+"33756","Clearwater","Pinellas","FL",33649
+"33127","Miami","Miami-Dade","FL",33464
+"33881","Winter Haven","Polk","FL",33463
+"32547","Fort Walton Beach","Okaloosa","FL",33339
+"33417","West Palm Beach","Palm Beach","FL",33287
+"33462","Lake Worth","Palm Beach","FL",33173
+"34683","Palm Harbor","Pinellas","FL",33162
+"33013","Hialeah","Miami-Dade","FL",32980
+"33326","Fort Lauderdale","Broward","FL",32946
+"32114","Daytona Beach","Volusia","FL",32923
+"33990","Cape Coral","Lee","FL",32901
+"32312","Tallahassee","Leon","FL",32864
+"32578","Niceville","Okaloosa","FL",32833
+"33460","Lake Worth","Palm Beach","FL",32688
+"34205","Bradenton","Manatee","FL",32534
+"34120","Naples","Collier","FL",32502
+"33713","Saint Petersburg","Pinellas","FL",32350
+"33173","Miami","Miami-Dade","FL",32307
+"33445","Delray Beach","Palm Beach","FL",32261
+"34266","Arcadia","De Soto","FL",32246
+"34243","Sarasota","Manatee","FL",32235
+"33143","Miami","Miami-Dade","FL",32197
+"32208","Jacksonville","Duval","FL",32194
+"33823","Auburndale","Polk","FL",32139
+"33884","Winter Haven","Polk","FL",32069
+"32405","Panama City","Bay","FL",32064
+"33054","Opa Locka","Miami-Dade","FL",32035
+"32277","Jacksonville","Duval","FL",32029
+"32258","Jacksonville","Duval","FL",31990
+"33180","Miami","Miami-Dade","FL",31883
+"33904","Cape Coral","Lee","FL",31859
+"32720","Deland","Volusia","FL",31819
+"33611","Tampa","Hillsborough","FL",31791
+"34119","Naples","Collier","FL",31632
+"34472","Ocala","Marion","FL",31632
+"32309","Tallahassee","Leon","FL",31610
+"33909","Cape Coral","Lee","FL",31467
+"33145","Miami","Miami-Dade","FL",31465
+"32507","Pensacola","Escambia","FL",31288
+"32904","Melbourne","Brevard","FL",31206
+"33026","Hollywood","Broward","FL",31045
+"33185","Miami","Miami-Dade","FL",30959
+"32773","Sanford","Seminole","FL",30955
+"34142","Immokalee","Collier","FL",30955
+"33407","West Palm Beach","Palm Beach","FL",30928
+"32082","Ponte Vedra Beach","Saint Johns","FL",30898
+"32909","Palm Bay","Brevard","FL",30798
+"32570","Milton","Santa Rosa","FL",30768
+"33919","Fort Myers","Lee","FL",30764
+"34772","Saint Cloud","Osceola","FL",30746
+"32301","Tallahassee","Leon","FL",30712
+"32607","Gainesville","Alachua","FL",30624
+"33702","Saint Petersburg","Pinellas","FL",30562
+"32127","Daytona Beach","Volusia","FL",30415
+"33771","Largo","Pinellas","FL",30346
+"34231","Sarasota","Sarasota","FL",30267
+"33144","Miami","Miami-Dade","FL",30235
+"32221","Jacksonville","Duval","FL",30227
+"33809","Lakeland","Polk","FL",30137
+"32159","Lady Lake","Lake","FL",30135
+"34990","Palm City","Martin","FL",30101
+"33626","Tampa","Hillsborough","FL",29964
+"33138","Miami","Miami-Dade","FL",29867
+"33150","Miami","Miami-Dade","FL",29839
+"32779","Longwood","Seminole","FL",29737
+"33803","Lakeland","Polk","FL",29675
+"32086","Saint Augustine","Saint Johns","FL",29568
+"32205","Jacksonville","Duval","FL",29499
+"33334","Fort Lauderdale","Broward","FL",29478
+"33917","North Fort Myers","Lee","FL",29439
+"32539","Crestview","Okaloosa","FL",29265
+"33168","Miami","Miami-Dade","FL",29072
+"33325","Fort Lauderdale","Broward","FL",28987
+"33442","Deerfield Beach","Broward","FL",28846
+"34684","Palm Harbor","Pinellas","FL",28784
+"33328","Fort Lauderdale","Broward","FL",28782
+"33404","West Palm Beach","Palm Beach","FL",28717
+"32583","Milton","Santa Rosa","FL",28585
+"32003","Orange Park","Clay","FL",28531
+"32327","Crawfordville","Wakulla","FL",28319
+"33401","West Palm Beach","Palm Beach","FL",28287
+"32809","Orlando","Orange","FL",28258
+"33510","Brandon","Hillsborough","FL",28176
+"33308","Fort Lauderdale","Broward","FL",27951
+"33570","Ruskin","Hillsborough","FL",27821
+"33130","Miami","Miami-Dade","FL",27818
+"33067","Pompano Beach","Broward","FL",27784
+"32806","Orlando","Orange","FL",27768
+"32958","Sebastian","Indian River","FL",27676
+"32533","Cantonment","Escambia","FL",27632
+"33069","Pompano Beach","Broward","FL",27612
+"33544","Zephyrhills","Pasco","FL",27606
+"33705","Saint Petersburg","Pinellas","FL",27596
+"34112","Naples","Collier","FL",27543
+"34287","North Port","Sarasota","FL",27532
+"34639","Land O Lakes","Pasco","FL",27522
+"34689","Tarpon Springs","Pinellas","FL",27496
+"33830","Bartow","Polk","FL",27476
+"32819","Orlando","Orange","FL",27442
+"33569","Riverview","Hillsborough","FL",27428
+"33837","Davenport","Polk","FL",27428
+"33971","Lehigh Acres","Lee","FL",27255
+"33028","Hollywood","Broward","FL",27235
+"32168","New Smyrna Beach","Volusia","FL",27186
+"33584","Seffner","Hillsborough","FL",27153
+"32937","Satellite Beach","Brevard","FL",27126
+"33618","Tampa","Hillsborough","FL",27081
+"33441","Deerfield Beach","Broward","FL",27050
+"32250","Jacksonville Beach","Duval","FL",26956
+"33189","Miami","Miami-Dade","FL",26937
+"33406","West Palm Beach","Palm Beach","FL",26858
+"32927","Cocoa","Brevard","FL",26687
+"32757","Mount Dora","Lake","FL",26679
+"32789","Winter Park","Orange","FL",26568
+"33825","Avon Park","Highlands","FL",26526
+"32962","Vero Beach","Indian River","FL",26469
+"33470","Loxahatchee","Palm Beach","FL",26384
+"32177","Palatka","Putnam","FL",26377
+"34986","Port Saint Lucie","Saint Lucie","FL",26317
+"33764","Clearwater","Pinellas","FL",26282
+"34606","Spring Hill","Hernando","FL",26274
+"33625","Tampa","Hillsborough","FL",26242
+"33314","Fort Lauderdale","Broward","FL",26188
+"33543","Zephyrhills","Pasco","FL",26172
+"33484","Delray Beach","Palm Beach","FL",26146
+"33629","Tampa","Hillsborough","FL",25999
+"34982","Fort Pierce","Saint Lucie","FL",25981
+"33331","Fort Lauderdale","Broward","FL",25854
+"33805","Lakeland","Polk","FL",25709
+"33770","Largo","Pinellas","FL",25688
+"33712","Saint Petersburg","Pinellas","FL",25674
+"32563","Gulf Breeze","Santa Rosa","FL",25550
+"33703","Saint Petersburg","Pinellas","FL",25457
+"33709","Saint Petersburg","Pinellas","FL",25455
+"33755","Clearwater","Pinellas","FL",25445
+"34482","Ocala","Marion","FL",25244
+"33860","Mulberry","Polk","FL",25150
+"33707","Saint Petersburg","Pinellas","FL",25143
+"33781","Pinellas Park","Pinellas","FL",25059
+"34769","Saint Cloud","Osceola","FL",25018
+"33446","Delray Beach","Palm Beach","FL",24983
+"32505","Pensacola","Escambia","FL",24965
+"32043","Green Cove Springs","Clay","FL",24952
+"34491","Summerfield","Marion","FL",24936
+"34471","Ocala","Marion","FL",24898
+"33993","Cape Coral","Lee","FL",24856
+"33166","Miami","Miami-Dade","FL",24830
+"33547","Lithia","Hillsborough","FL",24813
+"32901","Melbourne","Brevard","FL",24772
+"32605","Gainesville","Alachua","FL",24684
+"33928","Estero","Lee","FL",24682
+"34109","Naples","Collier","FL",24662
+"32117","Daytona Beach","Volusia","FL",24602
+"32233","Atlantic Beach","Duval","FL",24473
+"32750","Longwood","Seminole","FL",24389
+"32832","Orlando","Orange","FL",24325
+"33907","Fort Myers","Lee","FL",24198
+"32953","Merritt Island","Brevard","FL",24181
+"34974","Okeechobee","Okeechobee","FL",24163
+"33486","Boca Raton","Palm Beach","FL",24146
+"34104","Naples","Collier","FL",24121
+"32223","Jacksonville","Duval","FL",24039
+"34110","Naples","Collier","FL",24008
+"33137","Miami","Miami-Dade","FL",23965
+"33913","Fort Myers","Lee","FL",23816
+"33607","Tampa","Hillsborough","FL",23813
+"34219","Parrish","Manatee","FL",23792
+"33936","Lehigh Acres","Lee","FL",23787
+"33444","Delray Beach","Palm Beach","FL",23770
+"32060","Live Oak","Suwannee","FL",23768
+"32606","Gainesville","Alachua","FL",23766
+"33327","Fort Lauderdale","Broward","FL",23762
+"34202","Bradenton","Manatee","FL",23739
+"33916","Fort Myers","Lee","FL",23438
+"32536","Crestview","Okaloosa","FL",23426
+"34652","New Port Richey","Pasco","FL",23409
+"32905","Palm Bay","Brevard","FL",23395
+"33034","Homestead","Miami-Dade","FL",23281
+"33426","Boynton Beach","Palm Beach","FL",23155
+"32763","Orange City","Volusia","FL",23098
+"32504","Pensacola","Escambia","FL",23080
+"34957","Jensen Beach","Martin","FL",23078
+"33782","Pinellas Park","Pinellas","FL",23052
+"34654","New Port Richey","Pasco","FL",23021
+"33556","Odessa","Hillsborough","FL",22978
+"33558","Lutz","Hillsborough","FL",22843
+"33634","Tampa","Hillsborough","FL",22733
+"34476","Ocala","Marion","FL",22665
+"33430","Belle Glade","Palm Beach","FL",22603
+"32401","Panama City","Bay","FL",22566
+"33772","Seminole","Pinellas","FL",22517
+"32308","Tallahassee","Leon","FL",22441
+"33455","Hobe Sound","Martin","FL",22415
+"33573","Sun City Center","Hillsborough","FL",22412
+"32119","Daytona Beach","Volusia","FL",22398
+"32726","Eustis","Lake","FL",22377
+"32025","Lake City","Columbia","FL",22374
+"33991","Cape Coral","Lee","FL",22354
+"32926","Cocoa","Brevard","FL",22350
+"34677","Oldsmar","Pinellas","FL",22152
+"32129","Port Orange","Volusia","FL",22149
+"33903","North Fort Myers","Lee","FL",22122
+"32751","Maitland","Orange","FL",22073
+"33950","Punta Gorda","Charlotte","FL",22017
+"33062","Pompano Beach","Broward","FL",22014
+"32701","Altamonte Springs","Seminole","FL",21997
+"33935","Labelle","Hendry","FL",21968
+"32080","Saint Augustine","Saint Johns","FL",21943
+"34234","Sarasota","Sarasota","FL",21865
+"34601","Brooksville","Hernando","FL",21847
+"33496","Boca Raton","Palm Beach","FL",21825
+"33140","Miami Beach","Miami-Dade","FL",21807
+"33870","Sebring","Highlands","FL",21760
+"33811","Lakeland","Polk","FL",21739
+"33184","Miami","Miami-Dade","FL",21733
+"32444","Lynn Haven","Bay","FL",21730
+"34113","Naples","Collier","FL",21409
+"32778","Tavares","Lake","FL",21406
+"32548","Fort Walton Beach","Okaloosa","FL",21315
+"33852","Lake Placid","Highlands","FL",21202
+"33323","Fort Lauderdale","Broward","FL",21195
+"32967","Vero Beach","Indian River","FL",21111
+"33603","Tampa","Hillsborough","FL",21044
+"32311","Tallahassee","Leon","FL",21038
+"33431","Boca Raton","Palm Beach","FL",20967
+"32960","Vero Beach","Indian River","FL",20960
+"33901","Fort Myers","Lee","FL",20950
+"32796","Titusville","Brevard","FL",20948
+"32952","Merritt Island","Brevard","FL",20732
+"32713","Debary","Volusia","FL",20697
+"32805","Orlando","Orange","FL",20695
+"32305","Tallahassee","Wakulla","FL",20659
+"33566","Plant City","Hillsborough","FL",20602
+"33405","West Palm Beach","Palm Beach","FL",20537
+"34972","Okeechobee","Okeechobee","FL",20496
+"34691","Holiday","Pasco","FL",20473
+"33525","Dade City","Pasco","FL",20449
+"33714","Saint Petersburg","Pinellas","FL",20375
+"33711","Saint Petersburg","Pinellas","FL",20366
+"33763","Clearwater","Pinellas","FL",20195
+"33487","Boca Raton","Palm Beach","FL",20176
+"32836","Orlando","Orange","FL",20154
+"34275","Nokomis","Sarasota","FL",20074
+"33434","Boca Raton","Palm Beach","FL",20006
+"33181","Miami","Miami-Dade","FL",19986
+"32609","Gainesville","Alachua","FL",19906
+"33541","Zephyrhills","Pasco","FL",19900
+"32829","Orlando","Orange","FL",19888
+"33440","Clewiston","Hendry","FL",19878
+"34470","Ocala","Marion","FL",19856
+"33897","Davenport","Polk","FL",19855
+"33167","Miami","Miami-Dade","FL",19837
+"32128","Daytona Beach","Volusia","FL",19806
+"33761","Clearwater","Pinellas","FL",19744
+"32803","Orlando","Orange","FL",19583
+"33432","Boca Raton","Palm Beach","FL",19578
+"34473","Ocala","Marion","FL",19522
+"33606","Tampa","Hillsborough","FL",19466
+"34747","Kissimmee","Osceola","FL",19413
+"32217","Jacksonville","Duval","FL",19411
+"32024","Lake City","Columbia","FL",19378
+"34238","Sarasota","Sarasota","FL",19364
+"34212","Bradenton","Manatee","FL",19301
+"33187","Miami","Miami-Dade","FL",19286
+"34481","Ocala","Marion","FL",19147
+"33774","Largo","Pinellas","FL",19108
+"34480","Ocala","Marion","FL",19029
+"33572","Apollo Beach","Hillsborough","FL",18998
+"32541","Destin","Okaloosa","FL",18908
+"34685","Palm Harbor","Pinellas","FL",18899
+"32141","Edgewater","Volusia","FL",18828
+"33304","Fort Lauderdale","Broward","FL",18771
+"32934","Melbourne","Brevard","FL",18761
+"32351","Quincy","Gadsden","FL",18643
+"34286","North Port","Sarasota","FL",18625
+"32601","Gainesville","Alachua","FL",18579
+"32097","Yulee","Nassau","FL",18518
+"33609","Tampa","Hillsborough","FL",18413
+"33912","Fort Myers","Lee","FL",18402
+"33523","Dade City","Pasco","FL",18387
+"33759","Clearwater","Pinellas","FL",18366
+"33635","Tampa","Hillsborough","FL",18353
+"33408","North Palm Beach","Palm Beach","FL",18248
+"33598","Wimauma","Hillsborough","FL",18226
+"34736","Groveland","Lake","FL",18213
+"32408","Panama City","Bay","FL",18141
+"34420","Belleview","Marion","FL",18107
+"34695","Safety Harbor","Pinellas","FL",18096
+"34285","Venice","Sarasota","FL",18069
+"33716","Saint Petersburg","Pinellas","FL",18043
+"33549","Lutz","Hillsborough","FL",18015
+"34233","Sarasota","Sarasota","FL",17989
+"32966","Vero Beach","Indian River","FL",17868
+"33773","Largo","Pinellas","FL",17768
+"33559","Lutz","Hillsborough","FL",17731
+"34145","Marco Island","Collier","FL",17692
+"32804","Orlando","Orange","FL",17653
+"34465","Beverly Hills","Citrus","FL",17603
+"32433","Defuniak Springs","Walton","FL",17586
+"33413","West Palm Beach","Palm Beach","FL",17473
+"33605","Tampa","Hillsborough","FL",17457
+"34613","Brooksville","Hernando","FL",17433
+"33182","Miami","Miami-Dade","FL",17379
+"32821","Orlando","Orange","FL",17374
+"34223","Englewood","Sarasota","FL",17370
+"34771","Saint Cloud","Osceola","FL",17351
+"32118","Daytona Beach","Volusia","FL",17349
+"33637","Tampa","Hillsborough","FL",17345
+"33565","Plant City","Hillsborough","FL",17311
+"34237","Sarasota","Sarasota","FL",17307
+"33760","Clearwater","Pinellas","FL",17260
+"32766","Oviedo","Seminole","FL",17252
+"34105","Naples","Collier","FL",17248
+"32428","Chipley","Washington","FL",17179
+"33777","Seminole","Pinellas","FL",17179
+"32055","Lake City","Columbia","FL",17114
+"33898","Lake Wales","Polk","FL",17107
+"34950","Fort Pierce","Saint Lucie","FL",17027
+"34210","Bradenton","Manatee","FL",17023
+"34994","Stuart","Martin","FL",16909
+"34788","Leesburg","Lake","FL",16886
+"33004","Dania","Broward","FL",16812
+"33066","Pompano Beach","Broward","FL",16786
+"34114","Naples","Collier","FL",16727
+"33131","Miami","Miami-Dade","FL",16715
+"34474","Ocala","Marion","FL",16659
+"34446","Homosassa","Citrus","FL",16647
+"34108","Naples","Collier","FL",16636
+"33704","Saint Petersburg","Pinellas","FL",16503
+"32206","Jacksonville","Duval","FL",16500
+"33534","Gibsonton","Hillsborough","FL",16487
+"33948","Port Charlotte","Charlotte","FL",16361
+"33190","Miami","Miami-Dade","FL",16305
+"33706","Saint Petersburg","Pinellas","FL",16294
+"33146","Miami","Miami-Dade","FL",16156
+"33616","Tampa","Hillsborough","FL",16145
+"33708","Saint Petersburg","Pinellas","FL",16098
+"34292","Venice","Sarasota","FL",16054
+"32226","Jacksonville","Duval","FL",16013
+"34951","Fort Pierce","Saint Lucie","FL",15978
+"34224","Englewood","Sarasota","FL",15913
+"32310","Tallahassee","Leon","FL",15864
+"34117","Naples","Collier","FL",15794
+"33872","Sebring","Highlands","FL",15778
+"32922","Cocoa","Brevard","FL",15741
+"34984","Port Saint Lucie","Saint Lucie","FL",15663
+"33035","Homestead","Miami-Dade","FL",15658
+"34239","Sarasota","Sarasota","FL",15499
+"32459","Santa Rosa Beach","Walton","FL",15400
+"32091","Starke","Bradford","FL",15311
+"33972","Lehigh Acres","Lee","FL",15299
+"33330","Fort Lauderdale","Broward","FL",15226
+"33701","Saint Petersburg","Pinellas","FL",15209
+"33469","Jupiter","Palm Beach","FL",15195
+"33301","Fort Lauderdale","Broward","FL",15062
+"32641","Gainesville","Alachua","FL",14989
+"33019","Hollywood","Broward","FL",14933
+"33412","West Palm Beach","Palm Beach","FL",14918
+"33527","Dover","Hillsborough","FL",14850
+"33136","Miami","Miami-Dade","FL",14839
+"32963","Vero Beach","Indian River","FL",14790
+"33154","Miami","Miami-Dade","FL",14790
+"33778","Largo","Pinellas","FL",14710
+"34241","Sarasota","Sarasota","FL",14675
+"34235","Sarasota","Sarasota","FL",14671
+"32317","Tallahassee","Leon","FL",14665
+"34610","Spring Hill","Pasco","FL",14656
+"32615","Alachua","Alachua","FL",14630
+"32176","Ormond Beach","Volusia","FL",14629
+"32413","Panama City Beach","Bay","FL",14619
+"32534","Pensacola","Escambia","FL",14524
+"32656","Keystone Heights","Clay","FL",14433
+"33983","Punta Gorda","Charlotte","FL",14422
+"33602","Tampa","Hillsborough","FL",14409
+"33498","Boca Raton","Palm Beach","FL",14404
+"33815","Lakeland","Polk","FL",14328
+"33765","Clearwater","Pinellas","FL",14270
+"32931","Cocoa Beach","Brevard","FL",14118
+"32903","Indialantic","Brevard","FL",14090
+"32968","Vero Beach","Indian River","FL",14015
+"34134","Bonita Springs","Lee","FL",13977
+"34442","Hernando","Citrus","FL",13953
+"32063","Macclenny","Baker","FL",13840
+"32011","Callahan","Nassau","FL",13805
+"33873","Wauchula","Hardee","FL",13762
+"33170","Miami","Miami-Dade","FL",13748
+"33477","Jupiter","Palm Beach","FL",13710
+"34479","Ocala","Marion","FL",13533
+"32425","Bonifay","Holmes","FL",13480
+"33315","Fort Lauderdale","Broward","FL",13362
+"33980","Port Charlotte","Charlotte","FL",13336
+"34731","Fruitland Park","Lake","FL",13218
+"34947","Fort Pierce","Saint Lucie","FL",13188
+"32220","Jacksonville","Duval","FL",13179
+"32653","Gainesville","Alachua","FL",13168
+"33129","Miami","Miami-Dade","FL",13128
+"32669","Newberry","Alachua","FL",13098
+"33149","Key Biscayne","Miami-Dade","FL",13054
+"32254","Jacksonville","Duval","FL",13039
+"33478","Jupiter","Palm Beach","FL",13015
+"32908","Palm Bay","Brevard","FL",13001
+"32569","Mary Esther","Okaloosa","FL",12971
+"34236","Sarasota","Sarasota","FL",12920
+"33132","Miami","Miami-Dade","FL",12895
+"34475","Ocala","Marion","FL",12882
+"33776","Seminole","Pinellas","FL",12872
+"34103","Naples","Collier","FL",12802
+"34669","Hudson","Pasco","FL",12752
+"32348","Perry","Taylor","FL",12673
+"34432","Dunnellon","Marion","FL",12583
+"33403","West Palm Beach","Palm Beach","FL",12558
+"33305","Fort Lauderdale","Broward","FL",12425
+"32776","Sorrento","Lake","FL",12416
+"32696","Williston","Levy","FL",12363
+"32344","Monticello","Jefferson","FL",12360
+"33567","Plant City","Hillsborough","FL",12318
+"32784","Umatilla","Lake","FL",12313
+"34288","North Port","Sarasota","FL",12304
+"33513","Bushnell","Sumter","FL",12303
+"33853","Lake Wales","Polk","FL",12254
+"32693","Trenton","Gilchrist","FL",12186
+"32801","Orlando","Orange","FL",12174
+"33868","Polk City","Polk","FL",12092
+"32951","Melbourne Beach","Brevard","FL",12029
+"34690","Holiday","Pasco","FL",12028
+"32219","Jacksonville","Duval","FL",11931
+"33483","Delray Beach","Palm Beach","FL",11904
+"32054","Lake Butler","Union","FL",11724
+"34604","Brooksville","Hernando","FL",11573
+"32501","Pensacola","Escambia","FL",11557
+"33332","Fort Lauderdale","Broward","FL",11518
+"34102","Naples","Collier","FL",11454
+"34453","Inverness","Citrus","FL",11427
+"33955","Punta Gorda","Charlotte","FL",11406
+"34452","Inverness","Citrus","FL",11400
+"32446","Marianna","Jackson","FL",11303
+"32340","Madison","Madison","FL",11294
+"32643","High Springs","Alachua","FL",11207
+"34222","Ellenton","Manatee","FL",11184
+"34240","Sarasota","Sarasota","FL",11142
+"33843","Frostproof","Polk","FL",11136
+"34996","Stuart","Martin","FL",11119
+"33592","Thonotosassa","Hillsborough","FL",11068
+"33982","Punta Gorda","Charlotte","FL",11025
+"33037","Key Largo","Monroe","FL",10955
+"33875","Sebring","Highlands","FL",10928
+"32640","Hawthorne","Alachua","FL",10790
+"34450","Inverness","Citrus","FL",10747
+"33981","Port Charlotte","Charlotte","FL",10729
+"33931","Fort Myers Beach","Lee","FL",10675
+"34461","Lecanto","Citrus","FL",10664
+"34448","Homosassa","Citrus","FL",10620
+"32333","Havana","Gadsden","FL",10506
+"32169","New Smyrna Beach","Volusia","FL",10502
+"34488","Silver Springs","Marion","FL",10499
+"32148","Interlachen","Putnam","FL",10450
+"32754","Mims","Brevard","FL",10436
+"32407","Panama City Beach","Bay","FL",10433
+"33859","Lake Wales","Polk","FL",10364
+"32409","Panama City","Bay","FL",10191
+"32579","Shalimar","Okaloosa","FL",10187
+"32920","Cape Canaveral","Brevard","FL",10181
+"32680","Old Town","Dixie","FL",10111
+"32038","Fort White","Columbia","FL",10103
+"34956","Indiantown","Martin","FL",10057
+"33480","Palm Beach","Palm Beach","FL",10027
+"32095","Saint Augustine","Saint Johns","FL",10006
+"32439","Freeport","Walton","FL",9964
+"32736","Eustis","Lake","FL",9922
+"33316","Fort Lauderdale","Broward","FL",9801
+"32222","Jacksonville","Duval","FL",9772
+"33896","Davenport","Polk","FL",9746
+"32052","Jasper","Hamilton","FL",9704
+"32833","Orlando","Orange","FL",9697
+"33050","Marathon","Monroe","FL",9433
+"32046","Hilliard","Nassau","FL",9426
+"32827","Orlando","Orange","FL",9421
+"34428","Crystal River","Citrus","FL",9369
+"32561","Gulf Breeze","Santa Rosa","FL",9305
+"33954","Port Charlotte","Charlotte","FL",9294
+"32820","Orlando","Orange","FL",9240
+"32976","Sebastian","Brevard","FL",9001
+"33841","Fort Meade","Polk","FL",8944
+"33947","Rotonda West","Charlotte","FL",8901
+"32626","Chiefland","Levy","FL",8784
+"34607","Spring Hill","Hernando","FL",8778
+"33540","Zephyrhills","Pasco","FL",8737
+"34987","Port Saint Lucie","Saint Lucie","FL",8660
+"33476","Pahokee","Palm Beach","FL",8618
+"32550","Destin","Walton","FL",8490
+"33194","Miami","Miami-Dade","FL",8485
+"32448","Marianna","Jackson","FL",8480
+"32456","Port Saint Joe","Gulf","FL",8437
+"34429","Crystal River","Citrus","FL",8272
+"34436","Floral City","Citrus","FL",8225
+"33597","Webster","Sumter","FL",8207
+"32465","Wewahitchka","Gulf","FL",8179
+"33762","Clearwater","Pinellas","FL",8093
+"32179","Ocklawaha","Marion","FL",8075
+"32618","Archer","Alachua","FL",8058
+"32112","Crescent City","Putnam","FL",8054
+"32110","Bunnell","Flagler","FL",8009
+"34431","Dunnellon","Marion","FL",7958
+"32136","Flagler Beach","Flagler","FL",7933
+"32948","Fellsmere","Indian River","FL",7908
+"34211","Bradenton","Manatee","FL",7885
+"34229","Osprey","Sarasota","FL",7824
+"33850","Lake Alfred","Polk","FL",7802
+"32347","Perry","Taylor","FL",7795
+"32440","Graceville","Jackson","FL",7762
+"34434","Dunnellon","Citrus","FL",7731
+"33767","Clearwater Beach","Pinellas","FL",7714
+"34242","Sarasota","Sarasota","FL",7706
+"33834","Bowling Green","Hardee","FL",7695
+"32066","Mayo","Lafayette","FL",7664
+"32612","Gainesville","Alachua","FL",7606
+"33128","Miami","Miami-Dade","FL",7585
+"32040","Glen Saint Mary","Baker","FL",7570
+"32132","Edgewater","Volusia","FL",7514
+"32204","Jacksonville","Duval","FL",7507
+"33715","Saint Petersburg","Pinellas","FL",7488
+"34949","Fort Pierce","Saint Lucie","FL",7429
+"33031","Homestead","Miami-Dade","FL",7387
+"32134","Fort Mc Coy","Marion","FL",7376
+"32435","Defuniak Springs","Walton","FL",7325
+"34602","Brooksville","Hernando","FL",7314
+"34614","Brooksville","Hernando","FL",7237
+"34228","Longboat Key","Manatee","FL",7233
+"33957","Sanibel","Lee","FL",7224
+"32603","Gainesville","Alachua","FL",7195
+"32424","Blountstown","Calhoun","FL",7182
+"32814","Orlando","Orange","FL",7155
+"33471","Moore Haven","Glades","FL",7155
+"32666","Melrose","Putnam","FL",7147
+"32266","Neptune Beach","Duval","FL",7080
+"33548","Lutz","Hillsborough","FL",7063
+"32064","Live Oak","Suwannee","FL",6888
+"33953","Port Charlotte","Charlotte","FL",6885
+"32352","Quincy","Gadsden","FL",6698
+"33158","Miami","Miami-Dade","FL",6641
+"33042","Summerland Key","Monroe","FL",6524
+"34688","Tarpon Springs","Pinellas","FL",6497
+"32466","Youngstown","Bay","FL",6450
+"32321","Bristol","Liberty","FL",6277
+"32202","Jacksonville","Duval","FL",6165
+"33920","Alva","Lee","FL",5993
+"32730","Casselberry","Seminole","FL",5991
+"32087","Sanderson","Baker","FL",5979
+"34433","Dunnellon","Citrus","FL",5957
+"34946","Fort Pierce","Saint Lucie","FL",5950
+"34251","Myakka City","Manatee","FL",5922
+"32460","Sneads","Jackson","FL",5831
+"32124","Daytona Beach","Volusia","FL",5823
+"34753","Mascotte","Lake","FL",5818
+"32234","Jacksonville","Duval","FL",5780
+"32531","Baker","Okaloosa","FL",5735
+"32535","Century","Escambia","FL",5694
+"32145","Hastings","Saint Johns","FL",5659
+"32189","Satsuma","Putnam","FL",5611
+"32130","De Leon Springs","Volusia","FL",5581
+"33493","South Bay","Palm Beach","FL",5543
+"33070","Tavernier","Monroe","FL",5518
+"33785","Indian Rocks Beach","Pinellas","FL",5515
+"33620","Tampa","Hillsborough","FL",5402
+"32621","Bronson","Levy","FL",5394
+"32508","Pensacola","Escambia","FL",5381
+"32113","Citra","Marion","FL",5366
+"32619","Bell","Gilchrist","FL",5326
+"32421","Altha","Calhoun","FL",5256
+"34981","Fort Pierce","Saint Lucie","FL",5139
+"34217","Bradenton Beach","Manatee","FL",5127
+"32628","Cross City","Dixie","FL",5040
+"34945","Fort Pierce","Saint Lucie","FL",5019
+"33043","Big Pine Key","Monroe","FL",4928
+"33890","Zolfo Springs","Hardee","FL",4872
+"32565","Jay","Santa Rosa","FL",4826
+"32732","Geneva","Seminole","FL",4809
+"32686","Reddick","Marion","FL",4764
+"32324","Chattahoochee","Gadsden","FL",4726
+"32668","Morriston","Levy","FL",4700
+"33876","Sebring","Highlands","FL",4689
+"32735","Grand Island","Lake","FL",4673
+"32033","Elkton","Saint Johns","FL",4660
+"33576","San Antonio","Pasco","FL",4654
+"32058","Lawtey","Bradford","FL",4585
+"32131","East Palatka","Putnam","FL",4560
+"32008","Branford","Suwannee","FL",4538
+"33538","Lake Panasoffkee","Sumter","FL",4523
+"32455","Ponce De Leon","Holmes","FL",4514
+"32580","Valparaiso","Okaloosa","FL",4364
+"32577","Molino","Escambia","FL",4321
+"32464","Westville","Holmes","FL",4311
+"32331","Greenville","Madison","FL",4269
+"34734","Gotha","Orange","FL",4225
+"32950","Malabar","Brevard","FL",4222
+"33838","Dundee","Polk","FL",4178
+"32322","Carrabelle","Franklin","FL",4152
+"32667","Micanopy","Alachua","FL",4090
+"34269","Arcadia","De Soto","FL",4025
+"32431","Cottondale","Jackson","FL",3975
+"32617","Anthony","Marion","FL",3937
+"32180","Pierson","Volusia","FL",3934
+"34201","Bradenton","Manatee","FL",3930
+"32071","O Brien","Suwannee","FL",3856
+"32320","Apalachicola","Franklin","FL",3832
+"32009","Bryceville","Nassau","FL",3821
+"34773","Saint Cloud","Osceola","FL",3771
+"32744","Lake Helen","Volusia","FL",3764
+"34289","North Port","Sarasota","FL",3734
+"33922","Bokeelia","Lee","FL",3731
+"34756","Montverde","Lake","FL",3704
+"32462","Vernon","Washington","FL",3641
+"34484","Oxford","Sumter","FL",3604
+"32083","Raiford","Union","FL",3563
+"32438","Fountain","Bay","FL",3473
+"33956","Saint James City","Lee","FL",3437
+"33306","Fort Lauderdale","Broward","FL",3378
+"32403","Panama City","Bay","FL",3374
+"32443","Greenwood","Jackson","FL",3322
+"32343","Midway","Gadsden","FL",3301
+"32831","Orlando","Orange","FL",3280
+"33036","Islamorada","Monroe","FL",3274
+"32767","Paisley","Lake","FL",3273
+"33839","Eagle Lake","Polk","FL",3267
+"32764","Osteen","Volusia","FL",3188
+"32502","Pensacola","Escambia","FL",3185
+"32053","Jennings","Hamilton","FL",3139
+"32442","Grand Ridge","Jackson","FL",3132
+"32567","Laurel Hill","Okaloosa","FL",3104
+"32227","Jacksonville","Duval","FL",3087
+"32542","Eglin Afb","Okaloosa","FL",3081
+"32328","Eastpoint","Franklin","FL",3032
+"32195","Weirsdale","Marion","FL",2986
+"34449","Inglis","Levy","FL",2966
+"32564","Holt","Okaloosa","FL",2931
+"33827","Babson Park","Polk","FL",2930
+"32702","Altoona","Lake","FL",2793
+"32759","Oak Hill","Volusia","FL",2787
+"32568","Mc David","Escambia","FL",2735
+"34705","Astatula","Lake","FL",2649
+"32949","Grant","Brevard","FL",2629
+"32798","Zellwood","Orange","FL",2595
+"34737","Howey In The Hills","Lake","FL",2551
+"33621","Tampa","Hillsborough","FL",2533
+"32445","Malone","Jackson","FL",2525
+"32212","Jacksonville","Duval","FL",2499
+"32059","Lee","Madison","FL",2465
+"32694","Waldo","Alachua","FL",2454
+"33514","Center Hill","Sumter","FL",2350
+"33946","Placida","Charlotte","FL",2325
+"32181","Pomona Park","Putnam","FL",2268
+"32094","Wellborn","Suwannee","FL",2254
+"32102","Astor","Lake","FL",2195
+"32187","San Mateo","Putnam","FL",2186
+"32096","White Springs","Hamilton","FL",2179
+"32334","Hosford","Liberty","FL",2088
+"32062","Mc Alpin","Suwannee","FL",2085
+"33857","Lorida","Highlands","FL",2071
+"32544","Hurlburt Field","Okaloosa","FL",2003
+"32709","Christmas","Orange","FL",1986
+"32420","Alford","Jackson","FL",1983
+"32358","Sopchoppy","Wakulla","FL",1889
+"32044","Hampton","Bradford","FL",1824
+"32346","Panacea","Wakulla","FL",1769
+"33965","Fort Myers","Lee","FL",1659
+"33786","Belleair Beach","Pinellas","FL",1632
+"32625","Cedar Key","Levy","FL",1626
+"32925","Patrick Afb","Brevard","FL",1506
+"33585","Sumterville","Sumter","FL",1394
+"32140","Florahome","Putnam","FL",1393
+"32336","Lamont","Jefferson","FL",1373
+"32332","Gretna","Gadsden","FL",1315
+"33849","Kathleen","Polk","FL",1191
+"32350","Pinetta","Madison","FL",1184
+"32359","Steinhatchee","Taylor","FL",1162
+"32616","Alachua","Alachua","FL",1142
+"33851","Lake Hamilton","Polk","FL",1105
+"32190","Seville","Volusia","FL",1089
+"34797","Yalaha","Lake","FL",1084
+"33865","Ona","Hardee","FL",1078
+"32430","Clarksville","Calhoun","FL",1064
+"33848","Intercession City","Osceola","FL",1059
+"32511","Pensacola","Escambia","FL",1034
+"32423","Bascom","Jackson","FL",1025
+"32622","Brooker","Bradford","FL",1004
+"32410","Mexico Beach","Bay","FL",987
+"32427","Caryville","Washington","FL",926
+"32437","Ebro","Washington","FL",921
+"32426","Campbellton","Jackson","FL",914
+"33930","Felda","Hendry","FL",903
+"34216","Anna Maria","Manatee","FL",874
+"34760","Oakland","Orange","FL",874
+"33921","Boca Grande","Lee","FL",861
+"32139","Georgetown","Putnam","FL",854
+"32330","Greensboro","Gadsden","FL",828
+"34681","Crystal Beach","Pinellas","FL",775
+"33960","Venus","Highlands","FL",719
+"32193","Welaka","Putnam","FL",718
+"32509","Pensacola","Escambia","FL",702
+"32449","Kinard","Calhoun","FL",637
+"33877","Waverly","Polk","FL",589
+"34498","Yankeetown","Levy","FL",576
+"32648","Horseshoe Beach","Dixie","FL",570
+"33051","Key Colony Beach","Monroe","FL",569
+"34215","Cortez","Manatee","FL",560
+"32147","Hollister","Putnam","FL",556
+"32664","Mc Intosh","Marion","FL",538
+"34139","Everglades City","Collier","FL",486
+"34762","Okahumpka","Lake","FL",484
+"33109","Miami Beach","Miami-Dade","FL",475
+"32079","Penney Farms","Clay","FL",461
+"32061","Lulu","Columbia","FL",457
+"34137","Copeland","Collier","FL",454
+"34140","Goodland","Collier","FL",437
+"33521","Coleman","Sumter","FL",430
+"32323","Lanark Village","Franklin","FL",422
+"33867","River Ranch","Polk","FL",393
+"32658","La Crosse","Alachua","FL",376
+"32228","Jacksonville","Duval","FL",368
+"33039","Homestead","Miami-Dade","FL",356
+"32697","Worthington Springs","Union","FL",334
+"34739","Kenansville","Osceola","FL",334
+"33856","Nalcrest","Polk","FL",330
+"33001","Long Key","Monroe","FL",323
+"32072","Olustee","Baker","FL",299
+"32692","Suwannee","Dixie","FL",274
+"33944","Palmdale","Glades","FL",268
+"34138","Chokoloskee","Collier","FL",268
+"33438","Canal Point","Palm Beach","FL",265
+"32631","Earleton","Alachua","FL",264
+"32361","Wacissa","Jefferson","FL",256
+"33854","Fedhaven","Polk","FL",236
+"32355","Saint Marks","Wakulla","FL",224
+"32970","Wabasso","Indian River","FL",204
+"33503","Balm","Hillsborough","FL",204
+"32157","Lake Como","Putnam","FL",202
+"33924","Captiva","Lee","FL",200
+"32463","Wausau","Washington","FL",171
+"33847","Homeland","Polk","FL",171
+"32447","Marianna","Jackson","FL",161
+"33744","Bay Pines","Pinellas","FL",145
+"32683","Otter Creek","Levy","FL",140
+"34661","Nobleton","Hernando","FL",138
+"34268","Nocatee","De Soto","FL",128
+"32639","Gulf Hammock","Levy","FL",123
+"33122","Miami","Miami-Dade","FL",109
+"34679","Aripeka","Pasco","FL",103
+"32356","Salem","Taylor","FL",91
+"34141","Ochopee","Collier","FL",67
+"32681","Orange Lake","Marion","FL",47
+"32133","Eastlake Weir","Marion","FL",34
+"32461","Rosemary Bch","Bay","FL",34
+"32830","Orlando","Orange","FL",5
+"32399","Tallahassee","Leon","FL",0
+"32432","Cypress","Jackson","FL",0
+"32530","Bagdad","Santa Rosa","FL",0
+"33101","Miami","Miami-Dade","FL",0
+"33855","Indian Lake Estates","Polk","FL",0
+"33945","Pineland","Lee","FL",0
+"34101","Naples","Collier","FL",0
+"34445","Holder","Citrus","FL",0
